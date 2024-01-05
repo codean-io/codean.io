@@ -1,2 +1,2 @@
-# codean.review
+# codean.io
 Issue tracker for https://codean.io/
